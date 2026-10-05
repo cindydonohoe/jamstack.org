@@ -7,8 +7,9 @@ language:
   - TypeScript
 license:
   - AGPL-3.0-only
-templates: []
-description: Static photo &amp; video album gallery generator
+templates:
+  - Svelte
+description: 'Static photo & video album gallery generator'
 ---
 
 ## Fast, distraction-free photo and video albums
