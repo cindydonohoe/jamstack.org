@@ -65,7 +65,7 @@ cd ~/my-ddphotos
 ```
 
 The result deploys anywhere static: one command to Cloudflare Pages or Surge, or `rsync` to
-Apache/nginx and `aws s3 sync` to S3 + CloudFront.
+Apache/nginx and `aws s3 sync` to S3 and CloudFront.
 
 ## Source
 
